@@ -55,7 +55,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/liferay/alloy-editor.git"
+    "url": "https://github.com/listingslab/alloy-editor"
   },
   "keywords": [
     "editor",
